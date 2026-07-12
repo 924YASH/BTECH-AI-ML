@@ -1,4 +1,4 @@
-#user friendly calculator
+#user friendly calculator for basic calculation
 ans = "y"
 
 while ans == "y":
