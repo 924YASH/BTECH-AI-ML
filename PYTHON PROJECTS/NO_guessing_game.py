@@ -1,4 +1,4 @@
-# NO GUESSING GAME WITH COMPUTER VS USER 
+# NO GUESSING GAME BETWEEN COMPUTER VS USER 
 import random
 ans = "y"
 rand = random.randint(0,10)
